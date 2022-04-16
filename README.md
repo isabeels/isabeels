@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1> Olá, eu me chamo Isabel,<br> sou residente em Desenvolvimento Full Stack </h1>
+  <h1> Olá, me chamo Isabel,<br> sou residente em Desenvolvimento Full Stack </h1>
   <p> Aluna da SERRATEC</p>
 </div>
 
