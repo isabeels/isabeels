@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabeels&hide=stars&show_icons=true&theme=radical" 
+       height="140px;" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeels&theme=radical&layout=compact" height="140px;" />
+</div>
 
-<!--
-**isabeels/isabeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> Olá, eu me chamo Isabel,<br> sou residente em Desenvolvimento Full Stack </h1>
+  <p> Aluna da SERRATEC</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40px;"/>
+          
+          
+</div>         
+          
+          
