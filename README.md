@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h1> Hi, I'm Isabel!<br> I'm a Full Stack Web e Mobile Development student </h1>
+  <h1> Hi, I'm Isabel!<br> I'm a Full Stack Web and Mobile Development student </h1>
   <p> I’m currently learning SQL, Java, HTML, CSS, JavaScript, Node.JS, React and React-Native <br> at SERRATEC- Parque Tecnológico da Região Serrana RJ</p>
 </div>
 
