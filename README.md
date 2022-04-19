@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isabeels&hide=stars&show_icons=true&theme=radical" 
-       height="140px;" />
+       height="130px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeels&theme=radical&layout=compact"
-        height="140px;" />
+        height="130px;" />
 </div>
 
 <div align="center">
@@ -17,13 +17,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px;" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50px;" />
-  
-          
-          
-        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50px;" />     
 </div>    
 
+<div align="center">
 <img src="https://github.com/isabeels/isabeels/blob/output/github-contribution-grid-snake.svg"/>
-          
+</div>          
           
