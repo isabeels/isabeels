@@ -23,7 +23,7 @@
 <div align="center">
 <img src="https://github.com/isabeels/isabeels/blob/output/github-contribution-grid-snake.svg"/>
   
-![](https://komarev.com/ghpvc/?username=isabeels)  
+![](https://komarev.com/ghpvc/?username=isabeels&color=blueviolet)  
 </div>    
 
 
