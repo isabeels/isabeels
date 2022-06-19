@@ -6,8 +6,10 @@
 </div>
 
 <div align="center">
-  <h1> Hi, I'm Isabel!<br> I'm a Full Stack Web and Mobile Development student </h1>
-  <p> I’m currently learning SQL, Java, HTML, CSS, JavaScript, Node.JS, React and React-Native <br> at SERRATEC- Parque Tecnológico da Região Serrana RJ</p>
+  <h1> Olá, muito prazer!<br></h1>
+  <h2>Sou Isabel Sant' Ana 🤓 Estudante de Desenvolvimento Full Stack 🖥️</h2>
+  
+  <p> Atualmente estou aprendendo SQL, Java, HTML, CSS, JavaScript, Node.JS, React and React Native <br> no SERRATEC- Parque Tecnológico da Região Serrana RJ</p>
 </div>
 
 <div align="center">
@@ -23,7 +25,9 @@
 <div align="center">
 <img src="https://github.com/isabeels/isabeels/blob/output/github-contribution-grid-snake.svg"/>
   
-![](https://komarev.com/ghpvc/?username=isabeels&color=blueviolet)  
+<br>
+<br>
+<a href="https://www.linkedin.com/in/isabelsantana2811/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>    
 
 
