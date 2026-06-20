@@ -1,15 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabeels&hide=stars&show_icons=true&theme=radical" 
-       height="130px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeels&theme=radical&layout=compact"
-        height="130px;" />
-</div>
-
-<div align="center">
   <h1> Olá, muito prazer!<br></h1>
-  <h2>Sou Isabel Sant' Ana 🤓 Estudante de Desenvolvimento Full Stack 🖥️</h2>
-  
-  <p> Atualmente estou aprendendo SQL, Java, HTML, CSS, JavaScript, Node.JS, React and React Native <br> no SERRATEC- Parque Tecnológico da Região Serrana RJ</p>
+  <h2>Sou Isabel Sant' Ana 🤓 Desenvolvedora Full Stack 🖥️</h2>
 </div>
 
 <div align="center">
